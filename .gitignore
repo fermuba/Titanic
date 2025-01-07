@@ -1,0 +1,14 @@
+# Ignorar entornos virtuales
+titanic-env/
+
+# Ignorar configuraciones de IDE
+.vscode/
+.idea/
+
+# Ignorar archivos innecesarios
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar datos o archivos temporales
+*.log
